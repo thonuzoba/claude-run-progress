@@ -1,0 +1,5 @@
+{
+  "name": "claude-run-progress",
+  "owner": { "name": "thonuzoba" },
+  "plugins": [{ "name": "run-progress", "source": "./" }]
+}

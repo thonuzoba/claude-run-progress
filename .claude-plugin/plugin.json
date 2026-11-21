@@ -1,0 +1,7 @@
+{
+  "name": "run-progress",
+  "version": "0.1.0",
+  "description": "tqdm-style progress bar, percent and estimated finish time above the prompt during long runs (driven by the TodoWrite plan)",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
